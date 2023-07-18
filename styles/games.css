@@ -8,7 +8,7 @@
 /* header rillyted caj */
 
 header {
-    padding: 55px 240px 0px 0px;
+    padding: 65px 240px 0px 240px;
 }
 
 
@@ -56,6 +56,7 @@ nav li {
     width: 280px;
     height: 46px;
     flex-shrink: 0;
+    margin-top: 0px;
 }
 
 
@@ -65,4 +66,60 @@ nav li {
     height: 24px;
     flex-shrink: 0;
     padding-right: 0px;
+}
+
+/* banner styles */
+.banner {
+    flex-direction: column;
+}
+
+.banner-title {
+    color: #0B0223;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.banner-on-title {
+    font-size: 80px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.on-btn {
+    margin-top: 45px;
+    padding: 11px 20px;
+    gap: 10px;
+    border-radius: 48px;
+    background-color: #FF42A5;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    height: 65px;
+    width: 155px;
+    align-items: center;
+    border: 0px;
+}
+
+.to-btn {
+    margin-top: 45px;
+    width: 185px;
+    height: 65px;
+    padding: 21px 40px;
+    gap: 10px;
+    border-radius: 48px;
+    background: #4EC5F7;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn-title{
+    display: flex;
+    gap: 25px;
 }
