@@ -8,7 +8,7 @@
 /* header rillyted caj */
 
 header {
-    padding: 65px 240px 0px 240px;
+    margin: 35px 240px 0px 240px;
 }
 
 
@@ -69,8 +69,22 @@ nav li {
 }
 
 /* banner styles */
+.main-my-style {
+    padding: 35px 240px 0px 240px;
+    margin-top: 230px;
+    margin-right: 1020px;
+    width: 901px;
+    height: 700px;
+    flex-shrink: 0;
+    fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%);
+}
+
+
 .banner {
+    margin-top: 19px;
     flex-direction: column;
+    margin-top: 190px;
+    display: flex;
 }
 
 .banner-title {
@@ -78,6 +92,7 @@ nav li {
     font-size: 40px;
     font-weight: 600;
     margin-bottom: 0px;
+    display: flex;
 }
 
 .banner-on-title {
@@ -119,7 +134,19 @@ nav li {
     font-size: 20px;
     font-weight: 600;
 }
-.btn-title{
+
+.btn-title {
     display: flex;
     gap: 25px;
+}
+
+.on-section {
+    margin-right: 70px;
+    fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%);
+}
+
+.to-section {
+    margin-left: 70px;
+    margin-top: 19px;
+    margin-right: 240px;
 }
