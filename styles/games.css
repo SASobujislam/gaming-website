@@ -354,6 +354,8 @@ nav li {
     flex-shrink: 0;
     border-radius: 50px;
     background: #FFF;
+    background-image: url("../images/Rectangle\ 11.png");
+    background-repeat: no-repeat;
 }
 
 .btn-2 {
@@ -362,6 +364,8 @@ nav li {
     width: 281px;
     height: 60px;
     flex-shrink: 0;
+    background-image: url("../images/Rectangle\ 12.png");
+    background-repeat: no-repeat;
 }
 
 .btn-3 {
@@ -370,6 +374,8 @@ nav li {
     flex-shrink: 0;
     border-radius: 50px;
     background: #FFF;
+    background-image: url("../images/Rectangle\ 13.png");
+    background-repeat: no-repeat;
 }
 
 .btn-4 {
@@ -378,6 +384,8 @@ nav li {
     flex-shrink: 0;
     border-radius: 50px;
     background: #FFF;
+    background-image: url("../images/Rectangle\ 14.png");
+    background-repeat: no-repeat;
 }
 
 .btn-5 {
@@ -386,6 +394,8 @@ nav li {
     flex-shrink: 0;
     border-radius: 50px;
     background: #FFF;
+    background-image: url("../images/Rectangle\ 15.png");
+    background-repeat: no-repeat;
 }
 
 .on-button {
@@ -415,12 +425,11 @@ nav li {
     width: 86.041px;
     height: 40px;
     padding-top: 50px;
-    padding-right: 0;
+    margin-left: 20px;
 }
 
 .footer-title {
     color: #FFF;
-    font-family: Work Sans;
     font-size: 45px;
     font-weight: 700;
     padding-left: 80px;
