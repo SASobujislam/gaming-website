@@ -81,10 +81,10 @@ nav li {
 
 
 .banner {
-    margin-top: 19px;
     flex-direction: column;
     margin-top: 190px;
     display: flex;
+
 }
 
 .banner-title {
@@ -143,10 +143,80 @@ nav li {
 .on-section {
     margin-right: 70px;
     fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%);
+
 }
 
 .to-section {
     margin-left: 70px;
     margin-top: 19px;
     margin-right: 240px;
+}
+
+
+
+
+/* main section styles */
+
+
+/* We are gamer section styles */
+
+
+.gamer {
+    padding: 95px 240px 96px 860px;
+    background-color: rgba(255, 66, 165, 0.03);
+    background-image: url("../images/pngwing\ 4.png");
+    background-repeat: no-repeat;
+}
+
+.section-title {
+    padding-left: 180px;
+    width: 325px;
+    height: 56px;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-weight: 700;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.section-descripton {
+    width: 520px;
+    height: 120px;
+    color: #534C64;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.the-btn{
+    padding-left: 300px;
+}
+
+.main-btn {
+    width: 208px;
+    height: 65px;
+    padding: 21px 40px;
+    gap: 10px;
+    border-radius: 48px;
+    background-color: #FF42A5;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 300;
+    border: 0px;
+}
+
+.btn-descripton {
+    width: 520px;
+    height: 88px;
+    color: #534C64;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 45px;
 }
