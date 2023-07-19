@@ -193,7 +193,7 @@ nav li {
     line-height: 30px;
 }
 
-.the-btn{
+.the-btn {
     padding-left: 300px;
 }
 
@@ -219,4 +219,36 @@ nav li {
     font-size: 24px;
     font-weight: 500;
     line-height: 45px;
+}
+
+/* section styles */
+.section-itms {
+    color: #0B0223;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.font-styles {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.section-to {
+    margin-top: 0px;
+    color: #534C64;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 50px;
 }
