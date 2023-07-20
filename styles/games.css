@@ -428,11 +428,12 @@ nav li {
     margin-left: 20px;
 }
 
-.footer-title {
+.footer-titl {
     color: #FFF;
     font-size: 45px;
     font-weight: 700;
-    padding-left: 80px;
+    padding-left: 130px;
+    gap: 0px;
 }
 
 .footer-lind-items {
@@ -447,5 +448,5 @@ nav li {
     height: 40px;
     gap: 40px;
     margin-top: 70px;
-    padding-left: 190px;
+    padding-left: 160px;
 }
