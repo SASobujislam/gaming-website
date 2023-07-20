@@ -335,8 +335,8 @@ nav li {
 /* hover section styles */
 .hover-colamn {
     padding: 220px 280px 226px 140px;
-    width: 1100px;
-    height: 427px;
+    width: 1350px;
+    height: 190px;
     flex-shrink: 0;
     background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
 }
@@ -347,10 +347,11 @@ nav li {
     margin-right: 27px;
 }
 
-
+/* fast button stiles */
 .btn-1 {
-    width: 243px;
-    height: 60px;
+    margin-right: 59px;
+    width: 210px;
+    height: 50px;
     flex-shrink: 0;
     border-radius: 50px;
     background: #FFF;
@@ -359,17 +360,20 @@ nav li {
 }
 
 .btn-2 {
+    margin-right: 59px;
+    margin-bottom: 30px;
     border-radius: 50px;
     background: #FFF;
-    width: 281px;
-    height: 60px;
+    width: 240px;
+    height: 50px;
     flex-shrink: 0;
     background-image: url("../images/Rectangle\ 12.png");
     background-repeat: no-repeat;
 }
 
 .btn-3 {
-    width: 248px;
+    margin-right: 59px;
+    width: 220px;
     height: 60px;
     flex-shrink: 0;
     border-radius: 50px;
@@ -379,7 +383,8 @@ nav li {
 }
 
 .btn-4 {
-    width: 295px;
+    margin-right: 59px;
+    width: 260px;
     height: 60px;
     flex-shrink: 0;
     border-radius: 50px;
@@ -389,7 +394,8 @@ nav li {
 }
 
 .btn-5 {
-    width: 231px;
+    margin-right: 59px;
+    width: 200px;
     height: 60px;
     flex-shrink: 0;
     border-radius: 50px;
@@ -397,6 +403,52 @@ nav li {
     background-image: url("../images/Rectangle\ 15.png");
     background-repeat: no-repeat;
 }
+/* sacand button stiles */
+.btn-6 {
+    margin-right: 59px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    background: #FFF;
+    width: 270px;
+    height: 50px;
+    flex-shrink: 0;
+    background-image: url("../images/Rectangle\ 16.png");
+    background-repeat: no-repeat;
+}
+
+.btn-7 {
+    margin-right: 59px;
+    width: 280px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
+    background-image: url("../images/Rectangle\ 17.png");
+    background-repeat: no-repeat;
+}
+
+.btn-8 {
+    margin-right: 50px;
+    width: 260px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
+    background-image: url("../images/Rectangle\ 18.png");
+    background-repeat: no-repeat;
+}
+
+.btn-9 {
+    margin-right: 59px;
+    width: 250px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
+    background-image: url("../images/Rectangle\ 19.png");
+    background-repeat: no-repeat;
+}
+
 
 .on-button {
     color: #0B0223;
@@ -405,7 +457,13 @@ nav li {
     font-weight: 600;
 }
 
-
+.dub-button {
+    margin-left: 90px;
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+}
 
 
 /* footer section styles */
