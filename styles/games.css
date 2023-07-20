@@ -403,6 +403,7 @@ nav li {
     background-image: url("../images/Rectangle\ 15.png");
     background-repeat: no-repeat;
 }
+
 /* sacand button stiles */
 .btn-6 {
     margin-right: 59px;
@@ -501,10 +502,16 @@ nav li {
     font-weight: 500;
     gap: 24px;
 }
-.footer-img{
+
+.footer-img {
     width: 55px;
     height: 40px;
     gap: 40px;
     margin-top: 70px;
     padding-left: 160px;
 }
+
+
+/* @midie quoeri mobile */
+
+@media screen and (max-wite:576px) {}
